@@ -1,0 +1,36 @@
+body{
+    background-color: #ddd;
+}
+
+.container{
+    background-color: #fff;
+    padding: 5%;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.fixed-action-btn>.btn-floating {
+    position: relative;
+    transform: scale(1.2);
+    z-index: 10;
+}
+
+.fc-button-group{
+    background-color: #1F319D !important;
+}
+
+.fc .fc-button-primary {
+    color: #fff; 
+    background-color: #1F319D !important; 
+}
+
+#button-abrir-modal-evento{
+    background-color: #1F319D;
+    border-radius: 12px;
+}
+
+.center{
+    text-align: center;
+}
